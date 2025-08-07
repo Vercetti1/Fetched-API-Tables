@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Payments API",
+    "status": "Online",
+    "lastUpdated": "2024-07-28"
+  },
+  {
+    "name": "Auth System",
+    "status": "Offline",
+    "lastUpdated": "2024-07-27"
+  },
+  {
+    "name": "Notifications",
+    "status": "Online",
+    "lastUpdated": "2024-07-26"
+  }
+]
